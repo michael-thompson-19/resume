@@ -4,17 +4,43 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[LinkedIn](https://www.espn.com/).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Biography
 
-# Header 1
+Michael lives in Chicago, IL with his wife Andrea. When he is not advocating for criminal justice reform, he enjoys cycling along the lakefront when the weather is nice, catching a movie at the Music Box when the weather is not nice, playing board games with his friends, and watching the Buffalo Bills play football during the regular season.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Education
 
-## Header 2
+* Master of Public Policy - University of Chicago Harris School of Public Policy, 2015
+* Bachelor of Arts - Economics and Political Science, Univeristy of Rochester, 2010
+* High School Diploma - Adlai E. Stevenson High School, 2006
+
+## Work History
+
+*   Data Analytics and Visualization Specialist - New York University Law School Policing Project, 2023 to Present
+*   Associate Director of Data Analytics and Visualization - Parkinson's Foundation, 2021 to 2023
+*   Epidemiologist - Chicago Department of Public Health, 2021 to 2023
+*   Research Analyst - University of Chicago Crime Lab, 2017 to 2021
+*   Research Analyst - DePaul Univeristy Institute for Housing Studies, 2015 to 2017
+*   Economist - RCF Economic and Financial Consulting, 2011 to 2013
+*   Staff Economist - CardnoEntrix, 2010 to 2011
+
+## Published Work
+
+*   Tableau Dashboard Portfolio
+*   Minneapolis Community Safety Ecosystem Asset and Gap Analysis (2024) [Link](https://www.safetyreimagined.org/our-work/research-papers/minneapolis-community-safety-ecosystem-asset-and-gap-analysis)
+*   Measuring the Impact of the 606: Understanding How a Large Public Investment Impacted the Surrounding Community (2016) [Link](https://ihs-website-v2-production.s3.amazonaws.com/filer_public/2016/10/31/ihs_measuring_the_impact_of_the_606.pdf)
+
+## Resources
+
+
+## Memberships and Associations
+
+*   Chicago Free City 
+*   GapCo
+*   This is an unordered list following a header.
 
 > This is a blockquote following a header.
 >
