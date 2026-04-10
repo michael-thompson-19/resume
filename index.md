@@ -27,10 +27,11 @@ Michael lives in Chicago, IL with his wife Andrea. When he is not advocating for
 *   Economist - RCF Economic and Financial Consulting, 2011 to 2013
 *   Staff Economist - CardnoEntrix, 2010 to 2011
 
-## Published Work
+## Published Work & Acknowledgement
 
 *   Tableau Dashboard Portfolio
 *   Minneapolis Community Safety Ecosystem Asset and Gap Analysis (2024) [Link](https://www.safetyreimagined.org/our-work/research-papers/minneapolis-community-safety-ecosystem-asset-and-gap-analysis)
+*   Policing and Management [Link](https://www.nber.org/system/files/working_papers/w29851/w29851.pdf)
 *   Measuring the Impact of the 606: Understanding How a Large Public Investment Impacted the Surrounding Community (2016) [Link](https://ihs-website-v2-production.s3.amazonaws.com/filer_public/2016/10/31/ihs_measuring_the_impact_of_the_606.pdf)
 
 ## Resources
