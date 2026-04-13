@@ -19,13 +19,13 @@ Michael lives in Chicago, IL with his wife Andrea. When he is not working to mak
 
 ## Work History
 
-*   Data Analytics and Visualization Specialist - [New York University Law School Policing Project](https://www.policingproject.org/), _2023 to Present_
-*   Associate Director of Data Analytics and Visualization - [Parkinson's Foundation](https://www.parkinson.org/), _2021 to 2023_
-*   Epidemiologist - [Chicago Department of Public Health](https://www.chicago.gov/city/en/depts/cdph.html), _2021 to 2023_
-*   Research Analyst - [University of Chicago Crime Lab](https://www.uchicago.edu/education-and-research/center/crime_lab), _2017 to 2021_
-*   Research Analyst - [DePaul Univeristy Institute for Housing Studies](https://www.housingstudies.org/), _2015 to 2017_
-*   Economist - [RCF Economic and Financial Consulting](https://www.rcfecon.com/), _2011 to 2013_
-*   Staff Economist - CardnoEntrix, _2010 to 2011_
+*   **Data Analytics and Visualization Specialist** - [New York University Law School Policing Project](https://www.policingproject.org/), _2023 to Present_
+*   **Associate Director of Data Analytics and Visualization** - [Parkinson's Foundation](https://www.parkinson.org/), _2021 to 2023_
+*   **Epidemiologist** - [Chicago Department of Public Health](https://www.chicago.gov/city/en/depts/cdph.html), _2021 to 2023_
+*   **Research Analyst** - [University of Chicago Crime Lab](https://www.uchicago.edu/education-and-research/center/crime_lab), _2017 to 2021_
+*   **Research Analyst** - [DePaul Univeristy Institute for Housing Studies](https://www.housingstudies.org/), _2015 to 2017_
+*   **Economist** - [RCF Economic and Financial Consulting](https://www.rcfecon.com/), _2011 to 2013_
+*   **Staff Economist** - CardnoEntrix, _2010 to 2011_
 
 ## Data Visualization Examples, Published Work & Acknowledgements
 
