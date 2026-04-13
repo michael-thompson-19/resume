@@ -4,38 +4,36 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[LinkedIn](https://www.espn.com/).
+[LinkedIn](https://www.linkedin.com/in/michaelthompson16/)
 
 
 ## Biography
 
-Michael lives in Chicago, IL with his wife Andrea. When he is not advocating for criminal justice reform, he enjoys cycling along the lakefront when the weather is nice, catching a movie at the Music Box when the weather is not nice, playing board games with his friends, and watching the Buffalo Bills play football during the regular season.
+Michael lives in Chicago, IL with his wife Andrea. When he is not working to make the criminal justice system less violent, he enjoys cycling along the lakefront when the weather is nice, catching a movie at the Music Box when the weather is not nice, playing board games with his friends, and watching the Buffalo Bills play football during the regular season.
 
 ## Education
 
-* Master of Public Policy - University of Chicago Harris School of Public Policy, 2015
-* Bachelor of Arts - Economics and Political Science, Univeristy of Rochester, 2010
-* High School Diploma - Adlai E. Stevenson High School, 2006
+* **Master of Public Policy** - University of Chicago Harris School of Public Policy, 2015
+* **Bachelor of Arts** - Economics and Political Science, Univeristy of Rochester, 2010
+* **High School Diploma** - Adlai E. Stevenson High School, 2006
 
 ## Work History
 
-*   Data Analytics and Visualization Specialist - New York University Law School Policing Project, 2023 to Present
-*   Associate Director of Data Analytics and Visualization - Parkinson's Foundation, 2021 to 2023
-*   Epidemiologist - Chicago Department of Public Health, 2021 to 2023
-*   Research Analyst - University of Chicago Crime Lab, 2017 to 2021
-*   Research Analyst - DePaul Univeristy Institute for Housing Studies, 2015 to 2017
-*   Economist - RCF Economic and Financial Consulting, 2011 to 2013
-*   Staff Economist - CardnoEntrix, 2010 to 2011
+*   Data Analytics and Visualization Specialist - [New York University Law School Policing Project](https://www.policingproject.org/), _2023 to Present_
+*   Associate Director of Data Analytics and Visualization - [Parkinson's Foundation](https://www.parkinson.org/), _2021 to 2023_
+*   Epidemiologist - [Chicago Department of Public Health](https://www.chicago.gov/city/en/depts/cdph.html), _2021 to 2023_
+*   Research Analyst - [University of Chicago Crime Lab](https://www.uchicago.edu/education-and-research/center/crime_lab), _2017 to 2021_
+*   Research Analyst - [DePaul Univeristy Institute for Housing Studies](https://www.housingstudies.org/), _2015 to 2017_
+*   Economist - [RCF Economic and Financial Consulting](https://www.rcfecon.com/), _2011 to 2013_
+*   Staff Economist - CardnoEntrix, _2010 to 2011_
 
-## Published Work & Acknowledgement
+## Data Visualization Examples, Published Work & Acknowledgements
 
-*   Tableau Dashboard Portfolio
+*   Mock Behavioral Crisis Response Dashboard: [Link](https://public.tableau.com/views/BCRDashboardMockupv0_1/NarrativeCoverSheet?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+*   Calls for Service Analysis, Chicago 2025: [Link](https://public.tableau.com/views/cfs2025/CFS2025DOGs?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 *   Minneapolis Community Safety Ecosystem Asset and Gap Analysis (2024) [Link](https://www.safetyreimagined.org/our-work/research-papers/minneapolis-community-safety-ecosystem-asset-and-gap-analysis)
 *   Policing and Management [Link](https://www.nber.org/system/files/working_papers/w29851/w29851.pdf)
 *   Measuring the Impact of the 606: Understanding How a Large Public Investment Impacted the Surrounding Community (2016) [Link](https://ihs-website-v2-production.s3.amazonaws.com/filer_public/2016/10/31/ihs_measuring_the_impact_of_the_606.pdf)
-
-## Resources
-
 
 ## Memberships and Associations
 
