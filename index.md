@@ -26,7 +26,6 @@ Michael lives in Chicago, IL with his wife Andrea. When he is not working to mak
 *   Calls for Service Analysis, Chicago 2025: [Link](https://public.tableau.com/views/cfs2025/CFS2025DOGs?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * Mapping 30x30 Participating: [Link](https://public.tableau.com/views/30x30DraftMaps/StandardInsetMap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 *   Minneapolis Community Safety Ecosystem Asset and Gap Analysis (2024) [Link](https://www.safetyreimagined.org/our-work/research-papers/minneapolis-community-safety-ecosystem-asset-and-gap-analysis)
-*   Policing and Management [Link](https://www.nber.org/system/files/working_papers/w29851/w29851.pdf)
 *   Measuring the Impact of the 606: Understanding How a Large Public Investment Impacted the Surrounding Community (2016) [Link](https://ihs-website-v2-production.s3.amazonaws.com/filer_public/2016/10/31/ihs_measuring_the_impact_of_the_606.pdf)
 
 ### Links
