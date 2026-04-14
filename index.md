@@ -10,7 +10,7 @@ Michael lives in Chicago, IL with his wife Andrea. When he is not working to mak
 *   **Associate Director of Data Analytics and Visualization** - [Parkinson's Foundation](https://www.parkinson.org/), _2021 to 2023_
 *   **Epidemiologist** - [Chicago Department of Public Health](https://www.chicago.gov/city/en/depts/cdph.html), _2021 to 2023_
 *   **Research Analyst** - [University of Chicago Crime Lab](https://www.uchicago.edu/education-and-research/center/crime_lab), _2017 to 2021_
-*   **Research Analyst** - [DePaul Univeristy Institute for Housing Studies](https://www.housingstudies.org/), _2015 to 2017_
+*   **Research Analyst** - [DePaul University Institute for Housing Studies](https://www.housingstudies.org/), _2015 to 2017_
 *   **Economist** - [RCF Economic and Financial Consulting](https://www.rcfecon.com/), _2011 to 2013_
 *   **Staff Economist** - CardnoEntrix, _2010 to 2011_
 
@@ -24,7 +24,7 @@ Michael lives in Chicago, IL with his wife Andrea. When he is not working to mak
 
 *   Mock Behavioral Crisis Response Dashboard: [Link](https://public.tableau.com/views/BCRDashboardMockupv0_1/NarrativeCoverSheet?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 *   Calls for Service Analysis, Chicago 2025: [Link](https://public.tableau.com/views/cfs2025/CFS2025DOGs?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-* Mapping 30x30 Participating: [Link](https://public.tableau.com/views/30x30DraftMaps/StandardInsetMap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* Mapping 30x30 Pledges: [Link](https://public.tableau.com/views/30x30DraftMaps/StandardInsetMap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 *   Minneapolis Community Safety Ecosystem Asset and Gap Analysis (2024) [Link](https://www.safetyreimagined.org/our-work/research-papers/minneapolis-community-safety-ecosystem-asset-and-gap-analysis)
 *   Measuring the Impact of the 606: Understanding How a Large Public Investment Impacted the Surrounding Community (2016) [Link](https://ihs-website-v2-production.s3.amazonaws.com/filer_public/2016/10/31/ihs_measuring_the_impact_of_the_606.pdf)
 
