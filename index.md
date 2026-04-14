@@ -1,12 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[LinkedIn](https://www.linkedin.com/in/michaelthompson16/)
-
-
 ## Biography
 
 Michael lives in Chicago, IL with his wife Andrea. When he is not working to make the criminal justice system less violent, he enjoys cycling along the lakefront when the weather is nice, catching a movie at the Music Box when the weather is not nice, playing board games with his friends, and watching the Buffalo Bills play football during the regular season.
@@ -35,11 +26,21 @@ Michael lives in Chicago, IL with his wife Andrea. When he is not working to mak
 *   Policing and Management [Link](https://www.nber.org/system/files/working_papers/w29851/w29851.pdf)
 *   Measuring the Impact of the 606: Understanding How a Large Public Investment Impacted the Surrounding Community (2016) [Link](https://ihs-website-v2-production.s3.amazonaws.com/filer_public/2016/10/31/ihs_measuring_the_impact_of_the_606.pdf)
 
-## Memberships and Associations
+## Links, Memberships and Associations
 
-*   Chicago Free City 
+*   [LinkedIn](https://www.linkedin.com/in/michaelthompson16/)
+*    
 *   GapCo
 *   This is an unordered list following a header.
+
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+
+
 
 > This is a blockquote following a header.
 >
